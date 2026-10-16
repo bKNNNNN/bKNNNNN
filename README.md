@@ -3,8 +3,7 @@ Hey, I'm Pierrick 👋
 I live in Bordeaux and build things with LLMs: agents, RAG pipelines, evals,
 and the boring glue that makes them work in prod.
 
-I like building in the open. Most of what I make ends up here,
-and I'd rather ship a small tool people can fork than a big one nobody can read.
+I like building in the open: when I make something, the code usually ends up here.
 
 Things I've open-sourced:
 
